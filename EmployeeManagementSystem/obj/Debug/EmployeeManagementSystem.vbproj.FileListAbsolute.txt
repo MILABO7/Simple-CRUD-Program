@@ -1,0 +1,13 @@
+c:\users\gerwin\documents\visual studio 2013\Projects\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe.config
+C:\Users\Gerwin\Documents\Visual Studio 2013\Projects\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe
+C:\Users\Gerwin\Documents\Visual Studio 2013\Projects\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.pdb
+C:\Users\Gerwin\Documents\Visual Studio 2013\Projects\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.xml
+C:\Users\Gerwin\Documents\Visual Studio 2013\Projects\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Gerwin\Documents\Visual Studio 2013\Projects\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.Main.resources
+C:\Users\Gerwin\Documents\Visual Studio 2013\Projects\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.Resources.resources
+C:\Users\Gerwin\Documents\Visual Studio 2013\Projects\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.vbproj.GenerateResource.Cache
+C:\Users\Gerwin\Documents\Visual Studio 2013\Projects\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.exe
+C:\Users\Gerwin\Documents\Visual Studio 2013\Projects\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.xml
+C:\Users\Gerwin\Documents\Visual Studio 2013\Projects\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.pdb
+C:\Users\Gerwin\Documents\Visual Studio 2013\Projects\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.Table.resources
+C:\Users\Gerwin\Documents\Visual Studio 2013\Projects\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.LogIn.resources
